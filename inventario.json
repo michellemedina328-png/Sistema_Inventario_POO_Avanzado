@@ -1,0 +1,14 @@
+{
+    "002": {
+        "id": "002",
+        "nombre": "Laptop",
+        "cantidad": 20,
+        "precio": 20000.0
+    },
+    "003": {
+        "id": "003",
+        "nombre": "Memoria USB",
+        "cantidad": 500,
+        "precio": 1250.0
+    }
+}
